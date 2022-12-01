@@ -16,13 +16,21 @@ Note that this redesign project is not simply an academic exercise meant to test
 ### Does the document you’ve selected necessitate substantial revision of the original document? Is it the appropriate length for this revision assignment (2 to 3 pages)? Provide a link or a copy of your original project.
 
 Admissions Requirements for the Graduate Major in Computer Science of UCLA
+
 https://grad.ucla.edu/requirements/?app=admission&major=0201
 
+
+
 Steps To Apply to a UCLA Graduate Program
+
 https://grad.ucla.edu/admissions/steps-to-apply/
 
+
+
 Admissions Requirements for the Graduate Major in Management: M.B.A.
+
 https://grad.ucla.edu/gasaa/deptinfo/deptinfo.asp?code=008j&academicyear=20232024
+
 
 
 ### What are the most significant weaknesses of the original document? In what ways did the document fall short rhetorically, textually, visually, or otherwise?
